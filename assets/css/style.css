@@ -184,7 +184,7 @@ img.logo{
 }
 
 .edit:hover > a i{
-    color: greenyellow;
+    color: green;
 }
 .delete:hover > a i{
     color: rgb(224, 34, 9);
